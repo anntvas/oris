@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Page 2</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<h1>${param2}</h1>
+<p>This is Page 2.</p>
+<a href="index.thtml?param1=WelcomeBack">Back to Index</a>
+</body>
+</html>
+
